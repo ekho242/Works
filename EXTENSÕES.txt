@@ -1,0 +1,3 @@
+html css support
+javascript
+liveserver (pra abrir o jooj)
